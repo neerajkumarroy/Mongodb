@@ -17,7 +17,7 @@ app.post("/", async (req, res) => {  // Define a POST route for handling incomin
     data = await data.insert(req.body);   // Insert the data from the request body into the database (assuming 'data' is a database object)
 
 
-    console.warn(result);   // Log the result of the database connection to the console
+    console.warn(result);   // Print the result of the database connection to the console
 })
 
 
