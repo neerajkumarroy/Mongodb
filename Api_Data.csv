@@ -1,0 +1,36 @@
+[ 
+  { 
+    name: "note 8",
+    brand: "Redmi",
+    price: 433, 
+    category: "mobile",
+    ram:"4GB"
+ }, 
+
+  {
+    name: "note 5",
+    brand: "vivo", 
+    price: 533, 
+    category: "mobile", 
+    ram:"8GB"
+ },
+
+  {
+    name: "note 5",
+    brand: "Mi",
+    price: 333, 
+    category: "mobile",
+    ram:"16GB"
+ },
+
+ {
+    name: "note 5",
+    brand: "infinex",
+    price: 335, 
+    category: "mobile",
+    ram:"4GB"
+ }
+]
+    
+    
+    ]
